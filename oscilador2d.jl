@@ -11,7 +11,7 @@ m=1;
 #w2=sqrt(k2/m);
 
 w1=3
-w2=4
+w2=6
 
 delta=pi/2;
 alfa=pi/2;
